@@ -1,0 +1,81 @@
+html
+{
+	display: flex;
+	justify-content: center;
+}
+
+a
+{
+	color: #800000;
+}
+
+a:hover
+{
+	color: #cc3300;
+}
+
+a:visited
+{
+	color: #997300;
+}
+
+body
+{
+	width: 70vw;
+	color: #4d2e00;
+	background-color: #ffe7c3;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+nav
+{
+	text-align: center;
+	border-bottom: 1px solid black;
+	font-size: 30px;
+}
+
+h1
+{
+	font-size: 40px;
+	text-align: center;
+}
+
+.cj
+{
+	text-align: center;
+	margin-top: -3%;
+}
+
+.holder
+{
+	display: flex;
+	justify-content: center;
+}
+
+article
+{
+	width: 50vw;
+	background-color: #ffc266;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 10%;
+}
+
+.about, .more
+{
+	display: block;
+}
+
+ul
+{
+	display: inline-block;
+	text-align: left;
+}
+
+footer
+{
+	margin-top: 2%;
+	text-align: center;
+	border-top: 1px solid black;
+	font-size: 10px;
+}

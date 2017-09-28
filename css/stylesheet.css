@@ -1,0 +1,80 @@
+html
+{
+	display: flex;
+	justify-content: center;
+}
+
+a
+{
+	color: #800000;
+}
+
+a:hover
+{
+	color: #cc3300;
+}
+
+a:visited
+{
+	color: #997300;
+}
+
+body
+{
+	width: 70vw;
+	color: #4d2e00;
+	background-color: #ffe7c3;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+nav
+{
+	text-align: center;
+	border-bottom: 1px solid black;
+	font-size: 30px;
+}
+
+.textbox
+{
+	text-align: center;
+	font-size: 30px;
+}
+
+.previews
+{
+	display: flex;
+	justify-content: center;
+}
+div[id$="Preview"]
+{
+	background-color: #ffc266;
+	text-align: center;
+	width: 32.5%;
+	border: 1px solid black;
+	border-radius: 10%;
+	margin: 10px;
+	padding: 15px;
+/*	display: inline-block;*/
+}
+
+footer
+{
+	margin-top: 2%;
+	text-align: center;
+	border-top: 1px solid black;
+	font-size: 10px;
+}
+
+
+@media only screen and (max-width: 950px)
+{
+	.previews
+	{
+		display: initial;
+	}
+	div[name$="Preview"]
+	{
+		width: 70vw;
+		display: block;
+	}
+}
