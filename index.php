@@ -3,7 +3,12 @@
 	<head>
 		<meta charset="utf-8">
 		<title>The Bronx</title>
-		<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+		<link rel="stylesheet" type="text/css" href="Semantic-UI-CSS-master/semantic.min.css">
+		<script
+ 		 src="https://code.jquery.com/jquery-3.1.1.min.js"
+  		integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  		crossorigin="anonymous"></script>
+		<script src="Semantic-UI-CSS-master/semantic.min.js"></script>
 		<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
 	</head>
 	<body>
