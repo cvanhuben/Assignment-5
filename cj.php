@@ -21,6 +21,10 @@
 		</header>
 		<div class="holder">
 			<article>
+				<figure>
+					<img src="images/poughkeepsie.jpg">
+					<figcaption>CJ's Hometown</figcaption>
+				</figure>
 					<h3>About me</h3>
 						<p> I was born in Poughkeepsie, NY on October 24th. I am the youngest of two children. My mom's name is Margaret and my dad's name is Gary. My sister's name is Anne. I attended Arlington High School and graduated in 2014. 
 						</p>
