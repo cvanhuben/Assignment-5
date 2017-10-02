@@ -3,19 +3,19 @@
 	<head>
 		<meta charset=utf-8 />
 	    <title>Frankie Romero</title>
-	    <link rel="stylesheet" type="text/css" href="css/individuals.css">
+		<link rel="stylesheet" type="text/css" href="semantic/out/semantic.min.css">
+		<script
+		  src="https://code.jquery.com/jquery-3.1.1.min.js"
+		  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+		  crossorigin="anonymous"></script>
+		<script src="semantic/dist/semantic.min.js"></script>
 	    <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
 	
 	
 	</head>
 	<body>
 		
-		<nav>
-			<a href="index.php">Home</a>
-			<a href="cj.php">CJ</a>
-			<a href="frankieportfolio.php">Frankie</a>
-			<a href="jien.php">Jien</a>
-		</nav>
+		<?php include "inc/navigation.inc"?>
 		
 		<header>
 			<h1>Frankie Romero</h1>

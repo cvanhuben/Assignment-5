@@ -3,34 +3,21 @@
 	<head>
 		<meta charset="utf-8">
 		<title>The Bronx</title>
-		<link rel="stylesheet" type="text/css" href="Semantic-UI-CSS-master/semantic.min.css">
+		<link rel="stylesheet" type="text/css" href="semantic/out/semantic.min.css">
 		<script
- 		 src="https://code.jquery.com/jquery-3.1.1.min.js"
-  		integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-  		crossorigin="anonymous"></script>
-		<script src="Semantic-UI-CSS-master/semantic.min.js"></script>
+		  src="https://code.jquery.com/jquery-3.1.1.min.js"
+		  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+		  crossorigin="anonymous"></script>
+		<script src="semantic/dist/semantic.min.js"></script>
 		<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
 	</head>
 	<body>
 	
-		<nav>
-			<a href="index.php">Home</a>
-			<a href="cj.php">CJ</a>
-			<a href="frankieportfolio.php">Frankie</a>
-			<a href="jien.php">Jien</a>
-		</nav>
+		<?php include "inc/navigation.inc"?>
 		<div class="textbox">
 			<h1>MEET THE BRONX TEAM</h1>
-	
-			<!--
-
-			<div class ="textbox">
-			<?php include "pages/cj.php" ?>
-			<?php include "pages/frankieportfolio.php" ?>
-			</div>
-
-			-->
 		</div>
+		
 		<div class="previews">
 			<div id="cjPreview">
 				<h2>CJ Van Huben</h2>
