@@ -1,0 +1,13 @@
+body
+{
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+}
+
+.main
+{
+	margin: 5%;
+	padding: 3%;
+	background-color: white;
+	opacity: 0.8;
+}
