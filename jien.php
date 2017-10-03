@@ -29,24 +29,30 @@
 				</figure>
 					<div class="about">
 						<h2>Who Am I?</h2>
-						<p>I was born to a Japanese mother (Naomi) and an American father (Josh) on 29th October, 1996 in Tokyo, Japan. Shortly before my first birthday, my mother relocated permanently to America to give me the opportunity to be raised with my father and give me access to America's higher education system. I attended Colonie Central High School 2010-2014, and I am currently a senior at the University of Rochester.</p>
+							<p>
+								I was born to a Japanese mother (Naomi) and an American father (Josh) on 29th October, 1996 in Tokyo, Japan. Shortly before my first birthday, my mother relocated permanently to America to give me the opportunity to be raised with my father and give me access to America's higher education system. I attended Colonie Central High School 2010-2014, and I am currently a senior at the University of Rochester.
+							</p>
 					</div>
 					<div class="more">
 
 					<h2>Current Classes</h2>
-					<ul>
-					<li>stuff</li>
-					<li>stuff</li>
-					<li>stuff</li>
-					<li>stuff</li>
-					</ul>
+						<ul>
+							<li>stuff</li>
+							<li>stuff</li>
+							<li>stuff</li>
+							<li>stuff</li>
+						</ul>
 
 					<h2>Work Experience</h2>
-					<p>words words words</p>
+						<p>
+							words words words
+						</p>
 
 
 						<h2>Hobbies</h2>
-						<p>I like to do things like roll dice, read, play piano, suffer through existential crises, suffer in general, and code my own character sheets. </p>
+							<p>
+								I like to do things like roll dice, read, play piano, suffer through existential crises, suffer in general, and code my own character sheets.
+							</p>
 					</div>
 				</article>
 			</div>
