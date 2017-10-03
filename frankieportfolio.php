@@ -27,15 +27,7 @@
     
 					    <p>I am a 20 year old female from the Bronx, NY. I attend the University of Rochester, pursuing a bachelor's degree in Psychology. I hope to further attend graduate school in New York City, studying social work. I dream of being a social worker for child welfare.
 					    </p>
-					    <h2>Work Experience</h2>
-    
 					    
-					    // <h2>Skills</h2>
-    
-					    // <p>Basic programming skills in Python and JavaScript; light web design proficiency
-					    // Proficient in Microsoft Office: Word, Excel, PowerPoint.
-					    // Fluent in English with basic proficiency of Spanish</p>
-
 					    <h2>Current Classes</h2>
 					    <ul>
 					    <li>CSC 174</li>
