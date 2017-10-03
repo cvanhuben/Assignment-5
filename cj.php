@@ -25,12 +25,12 @@
 						<img src="images/poughkeepsie.jpg">
 						<figcaption>CJ's Hometown</figcaption>
 					</figure>
-						<h3>About me</h3>
-							<p> I was born in Poughkeepsie, NY on October 24th. I am the youngest of two children. My mom's name is Margaret and my dad's name is Gary. My sister's name is Anne. I attended Arlington High School and graduated in 2014. 
+						<h2>Who Am I?</h2>
+							<p> I was born in Poughkeepsie, NY on October 24th. I am the youngest of two children. My mom's name is Margaret and my dad's name is Gary. My sister's name is Anne. I attended Arlington High School and graduated in 2014. Currently I am a Senior studying Financial Economics. I am also trying to pick up a minor in Computer Science.
 							</p>
 
-							<p>Currently I am a Senior studying Financial Economics. I am also trying to pick up a minor in Computer Science. I've been a TA for ECO 108. Currently I am a Peer Advisor for the ECON department. Next year I will be moving to Manhattan and taking a job with EY doing Financial Consulting. Before that I interned with SpaceX in Los Angeles in their Business Operations Procurement department. Prior to that I worked with BASF as a Financial Analyst.</p>
-						<h3>Current Classes</h3>
+							
+						<h2>Current Classes</h2>
 	
 						<ul>
 							<li>CSC 172</li>
@@ -39,12 +39,11 @@
 							<li>CIS 240</li>
 						</ul>
 
-						<h3>Fun Facts</h3>
-						<ul>
-							<li>This first time I flew on a plane was when I was 20</li>
-							<li>I have two different sized pupils</li>
-							<li>I play saxophone and guitar better than I design websites</li>
-						</ul>
+						<h2>Work Experience</h2>
+						<p> Currently I am the Treasurer for the University of Rochester. Next year I will be moving to Manhattan and taking a job with EY doing Financial Consulting. Before that I interned with SpaceX in Los Angeles in their Business Operations & Procurement department. Prior to that I worked with BASF as a Financial Analyst in their North American headquarters.</p>			
+
+						<h2>Hobbies</h2>
+						<p>When I'm not doing schoolwork or running an office, I enjoy playing saxophone and guitar. I like riding my bike along the Hudson, playing basketball, and Fantasy Football. </p>
 				</article>
 			</div>
 		</div>

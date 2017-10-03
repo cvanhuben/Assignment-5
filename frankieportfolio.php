@@ -23,7 +23,7 @@
 			</header>
 	    	<div class="holder">
 				<article>
-					    <h2>Who I am</h2>
+					    <h2>Who am I?</h2>
     
 					    <p>I am a 20 year old female from the Bronx, NY. I attend the University of Rochester, pursuing a bachelor's degree in Psychology. I hope to further attend graduate school in New York City, studying social work. I dream of being a social worker for child welfare.</p>
 					    <h2>Work Experience</h2>

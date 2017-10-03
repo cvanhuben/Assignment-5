@@ -24,7 +24,7 @@
 			<div class="holder">
 				<article>
 					<div class="about">
-						<h2>Basic Information</h2>
+						<h2>Who Am I?</h2>
 						<p>I was born to a Japanese mother (Naomi) and an American father (Josh) on 29th October, 1996 in Tokyo, Japan. Shortly before my first birthday, my mother relocated permanently to America to give me the opportunity to be raised with my father and give me access to America's higher education system. I attended Colonie Central High School 2010-2014, and I am currently a senior at the University of Rochester.</p>
 					</div>
 					<div class="more">
