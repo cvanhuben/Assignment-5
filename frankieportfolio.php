@@ -19,13 +19,13 @@
 		<?php include "inc/navigation.inc"?>
 		<div class="main">
 			<header>
-				<h1>Frankie Romero</h1>
+				<h1><i class="pr flag"></i>Frankie Romero <i class="pr flag"></i></h1>
 			</header>
 	    	<div class="holder">
 				<article>
 					<figure>
 						<img src="images/financialecon.jpeg">
-						<figcaption>Some Caption***</figcaption>
+						<figcaption>Frankie has a love for analytics</figcaption>
 					</figure>
 					    <h2>Who am I?</h2>
     
