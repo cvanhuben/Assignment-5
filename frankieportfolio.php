@@ -1,20 +1,7 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset=utf-8 />
-	    <title>Frankie Romero</title>
-		<link rel="stylesheet" type="text/css" href="semantic/out/semantic.min.css">
-		<link rel="stylesheet" type="text/css" href="overrides/background.css">
-		<script
-		  src="https://code.jquery.com/jquery-3.1.1.min.js"
-		  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-		  crossorigin="anonymous"></script>
-		<script src="semantic/dist/semantic.min.js"></script>
-	    <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
-	
-	
-	</head>
-	<body>
+	<?php 
+	$currentTitle = "Frankie Romero";
+	include "inc/top.inc"; ?>
+
 		
 		<?php include "inc/navigation.inc"?>
 		<div class="main">
