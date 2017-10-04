@@ -1,9 +1,11 @@
-<nav>
-    <a href="index.php">Home</a>
-    <a href="cj.php">CJ</a>
-    <a href="frankieportfolio.php">Frankie</a>
-    <a href="jien.php">Jien</a>
-</nav>
+<div class ="navy">
+<div class ="ui horizontal pointing menu">
+    <a class="item" href="index.php">Home</a>
+    <a class="item" href="cj.php">CJ</a>
+    <a class="item" href="frankieportfolio.php">Frankie</a>
+    <a class="item" href="jien.php">Jien</a>
+</div>
+<div>
 
 
         
