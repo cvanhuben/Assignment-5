@@ -16,9 +16,8 @@
 
 	<?php 
 	$currentTitle = "The Bronx";
-	include "inc/top.inc";
-
-?>
+	include "inc/top.inc";?>
+	
 	<body>
 		<div class="container">
 			<?php include "inc/navigation.inc"?>
