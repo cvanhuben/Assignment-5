@@ -37,15 +37,15 @@
 
 					<h2>Current Classes</h2>
 						<ul>
-							<li>stuff</li>
-							<li>stuff</li>
-							<li>stuff</li>
-							<li>stuff</li>
+							<li>CSC 174</li>
+							<li>CSC 261</li>
+							<li>CSP 263</li>
+							<li>JPN 294</li>
 						</ul>
 
 					<h2>Work Experience</h2>
 						<p>
-							words words words
+							I worked at Barnes & Noble in Union Square, and I currently work at Barnes & Noble in College Town. I also used to be an office assistant.
 						</p>
 
 
