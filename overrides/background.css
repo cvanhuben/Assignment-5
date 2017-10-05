@@ -13,6 +13,19 @@ body {
     background: rgba(255,255,255,0.75);
 }
 
+.previews{
+    width:70%;
+}
+
+.whoAmI{
+    width: 50%;
+}
+.workExperience{
+    width: 50%;
+}
+.hobbies{
+    width: 50%;
+}
 nav {
     text-align: center;
     font-size: 30px;
@@ -58,14 +71,14 @@ p{
 
 figure{
     float: right;
+    text-align: center;
+    font-weight: bold;
 }
 
 footer {
     color: black;
     font-size: medium;
     font-weight: 100;
-    background:white;
-    
-    background: rgba(255,255,255,0.25);
+   
      
 }
