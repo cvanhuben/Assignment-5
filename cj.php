@@ -7,7 +7,7 @@
 		<?php include "inc/navigation.inc"?>
 		<div class="main">
 			<header>	
-				<h1>Christopher "CJ" Van Huben</h1>
+				<h1><i class="us flag"></i> Christopher "CJ" Van Huben <i class="us flag"></i></h1>
 			</header>
 			<div class="holder">
 				<article>

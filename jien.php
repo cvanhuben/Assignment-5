@@ -8,7 +8,7 @@
 		<?php include "inc/navigation.inc"?>
 		<div class="main">
 			<header>
-				<h1>Jien Ogawa</h1>
+				<h1><i class="jp flag"></i> Jien Ogawa <i class="jp flag"></i></h1>
 			</header>
 		
 			<div class="holder">
