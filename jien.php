@@ -25,7 +25,7 @@
 							</div>
 					
 					<div class="more">
-
+					<p></p>
 					<h2>Current Classes</h2>
 						<ul>
 							<li>CSC 174</li>
@@ -41,6 +41,7 @@
 						</p>
 						</div>
 
+						<p></p>
 						<div class = "hobbies">
 						<h2>Hobbies</h2>
 							<p>

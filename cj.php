@@ -41,7 +41,7 @@
 							</div>
 
 							<div class= "hobbies">		
-
+							<p></p>
 						<h2>Hobbies</h2>
 						<p>
 							When I'm not doing schoolwork or running an office, I enjoy playing saxophone and guitar. I like riding my bike along the Hudson, playing basketball, and Fantasy Football.
