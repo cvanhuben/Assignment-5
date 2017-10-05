@@ -20,6 +20,9 @@ nav {
 
 h1 { text-align: center;
     padding-bottom: 10px;
+    font-family: "Helvetica", serif;
+    font-weight: 600;
+    font-size: 55px;
 }
 
 #cjPreview {
@@ -48,6 +51,10 @@ img {
     width: 100%;
 }
 a:hover {color: darkblue;}
+
+p{
+    font-family: "Verdana",serif;
+}
 
 figure{
     float: right;
