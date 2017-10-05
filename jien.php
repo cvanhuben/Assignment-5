@@ -15,7 +15,7 @@
 				<article>
 				<figure>
 						<img src="images/Jien.jpg">
-						<figcaption>Some Caption***</figcaption>
+						<figcaption>Jien killing it on the vocals</figcaption>
 				</figure>
 					<div class="about">
 						<h2>Who Am I?</h2>
