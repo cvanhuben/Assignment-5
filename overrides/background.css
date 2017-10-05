@@ -10,6 +10,7 @@ body {
     padding: 3%;
     background-color: white;
     border-radius: 3%;
+    background: rgba(255,255,255,0.75);
 }
 
 nav {
@@ -23,6 +24,10 @@ h1 { text-align: center;
 
 #cjPreview {
     padding-bottom: 10px;
+}
+
+ul{
+    list-style: none;
 }
 
 #frankiePreview {
@@ -39,3 +44,13 @@ img {
     width: 40%;
 }
 a:hover {color: darkblue;}
+
+footer {
+    color: black;
+    font-size: medium;
+    font-weight: 100;
+    background:white;
+    
+    background: rgba(255,255,255,0.25);
+     
+}
