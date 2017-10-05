@@ -38,12 +38,20 @@ ul{
     padding-bottom: 10px;
 }
 
+ul{
+    list-element:none;
+}
+
 img {
     display: block;
     margin: auto;
-    width: 40%;
+    width: 100%;
 }
 a:hover {color: darkblue;}
+
+figure{
+    float: right;
+}
 
 footer {
     color: black;
